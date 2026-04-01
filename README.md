@@ -10,4 +10,4 @@ Analysis of 150,000 Uber rides
 - UPI dominant payment (45%)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
