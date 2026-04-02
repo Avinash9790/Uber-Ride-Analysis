@@ -2,7 +2,7 @@
 Analysis of 150,000 Uber rides
 
 ## Tools Used
-- Python | Power BI | Google Colab
+- Python | Power BI | Google Colab | SQL
 
 ## Key Insights
 - 62% rides completed
